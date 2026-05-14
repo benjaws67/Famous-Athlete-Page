@@ -2,17 +2,6 @@ body {
     background-color: #132448;
 }
 
-h1 {
-    font-family: "Plus Jakarta Sans", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: <weight>;
-    font-style: normal;
-    color: white;
-    font-size: 100px;
-    text-align: center;
-}
-
-
 h3 {
     color: white;
 }
@@ -34,7 +23,12 @@ h2 {
 body {
     text-align: center;
 }
-h1 {text-align: center;}
+h1 {text-align: center;
+color: white;
+font-size: 115px;}
+
+
+
 .grey {
     color: grey;
 }
@@ -49,4 +43,11 @@ body {
 }
 h1 {
   margin: 75px 0px 20px;
+}
+
+
+.zen-dots-regular {
+  font-family: "Zen Dots", sans-serif;
+  font-weight: 400;
+  font-style: normal;
 }
